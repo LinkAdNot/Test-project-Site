@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+body {
+  margin: 0;
+  font-weight: 1000;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  width: 1255px;
+}
+
+.row_1 {
+  position: absolute;
+  width: 291px;
+  height: 640px;
+  left: 114px;
+  top: 223px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_2 {
+  position: absolute;
+  width: 416px;
+  height: 340px;
+  left: 699px;
+  top: 223px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_3 {
+  position: absolute;
+  width: 375px;
+  height: 140px;
+  left: 99px;
+  top: 865px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_4 {
+  position: absolute;
+  width: 551px;
+  height: 400px;
+  left: 689px;
+  top: 589px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_5 {
+  position: absolute;
+  width: 375px;
+  height: 140px;
+  left: 99px;
+  top: 1039px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_6 {
+  position: absolute;
+  width: 491px;
+  height: 140px;
+  left: 680px;
+  top: 1012px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_7 {
+  position: absolute;
+  width: 209px;
+  height: 40px;
+  left: 103px;
+  top: 1156px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_8 {
+  position: absolute;
+  width: 362px;
+  height: 120px;
+  left: 671px;
+  top: 1180px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_9 {
+  position: absolute;
+  width: 537px;
+  height: 80px;
+  left: 671px;
+  top: 1328px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.row_10 {
+  position: absolute;
+  width: 209px;
+  height: 40px;
+  left: 671px;
+  top: 1448px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.liObj {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  display: list-item;
+}
+
+.select {
+  position: absolute;
+  top: -33px;
+  left: 75px;
+  display: list-item;
+}
+
+.selectTo {
+  position: absolute;
+  top: -30px;
+  left: 125px;
+  display: list-item;
+}
+/*# sourceMappingURL=style.css.map */
