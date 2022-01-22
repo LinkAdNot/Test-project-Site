@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  font-weight: 1000;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  position: absolute;
+}
+
+.header {
+  width: auto;
+  height: 94px;
+}
+
+.header .header__body {
+  padding: 28px 0 0 72px;
+  margin: 0 0 0 100px;
+  width: 1163px;
+  height: 65px;
+}
+
+.header .header__body .header__row-1 {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-1 .header__logo {
+  width: 62px;
+  height: 52px;
+  text-align: center;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-1 .header__image {
+  font-size: 23px;
+  position: absolute;
+  margin: 10px 0 0 0;
+  top: 24px;
+  font-weight: bolder;
+}
+
+.header .header__body .header__row-1 .header__title-r {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-1 .header__title-r .header__title {
+  font-size: 13px;
+}
+
+.header .header__body .header__row-2 {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-2 .header__nav {
+  padding: 0 0 0 83px;
+  position: absolute;
+  top: 44px;
+  margin: 0;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  font-size: 15px;
+}
+
+.header .header__body .header__row-2 .header__nav .header__text-n {
+  margin: 0 30px 0 0;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-2 .header__nav .header__text-n a {
+  color: black;
+  text-decoration: none;
+}
+
+.header .header__body .header__row-3 {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 193px;
+  height: 114px;
+  position: absolute;
+  right: 228px;
+}
+
+.header .header__body .header__row-3 .header__contacts {
+  font-size: 14px;
+  position: absolute;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-3 .header__contacts .header__watsapp-i {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.header .header__body .header__row-3 .header__contacts .linkContacts {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  width: 1365px;
+  height: 559px;
+  background-color: #C4C4C4;
+}
+
+.container .container__body {
+  width: 1105px;
+  height: 446px;
+  margin: 0 0 0 10%;
+}
+
+.container .container__body .container__row-1 {
+  height: 100%;
+  width: 62%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.container .container__body .container__row-1 .container__navigation .container__nav-text1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 21px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.container .container__body .container__row-1 .container__navigation .container__letsgo {
+  position: absolute;
+  top: 800px;
+}
+
+.container .container__body .container__row-2 {
+  height: 100%;
+  width: 40%;
+  position: absolute;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.container .container__body .container__row-2 .container__designElement {
+  position: absolute;
+  width: 387px;
+  height: 387px;
+  margin: 58px 0 0 0;
+  background: #F7F7F7;
+}
+/*# sourceMappingURL=style.css.map */
